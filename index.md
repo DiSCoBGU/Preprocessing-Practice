@@ -1,20 +1,22 @@
-![Meetup](https://github.com/DiSCoBGU/Preprocessing/raw/master/meet2.png)
+<!--![Meetup](https://github.com/DiSCoBGU/Preprocessing/raw/master/meet2.png)-->
 
-For the Second meetup on 8th April
+For the third meetup on 24th April
 
-## Let's refine the model and get more insights
+## It's time to clean data
+
 ### Agenda
 
-* Improve our linear regression model (feature selection and parameter tuning)
-* We will explore the different data preprocessing techniques and their pros. and cons.
+* We will practice what we already discussed including
+* Different data preprocessing techniques
+* Improve our linear regression model (parameter tuning)
 * Feature transformation and feature engineering
-* How linear regression performs better than deep learning for house pricing competition? 
 
-
+<!--
 ### Material
 * [Presentation](https://github.com/DiSCoBGU/Preprocessing/blob/master/DiSCo-Week2.pdf)<img src="https://cdn2.iconfinder.com/data/icons/picons-basic-3/57/basic3-019_presentation_keynote-512.png" height="24">
 <!-- * The Talk Video <img src="https://cdn3.iconfinder.com/data/icons/unicons-vector-icons-pack/32/youtube-24.png"> [Coming soon](https://) [0 min] -->
 * [Hands-on](https://www.kaggle.com/mineshjethva/explore-feature-engineering-xgb-lasso-nn) - A kaggle kernel
+-->
 
 ## Other Links
 * [Link](https://discobgu.github.io) Back to Main Page
