@@ -14,7 +14,7 @@ For the third meetup on 24th April
 <!--
 ### Material
 * [Presentation](https://github.com/DiSCoBGU/Preprocessing/blob/master/DiSCo-Week2.pdf)<img src="https://cdn2.iconfinder.com/data/icons/picons-basic-3/57/basic3-019_presentation_keynote-512.png" height="24">
-<!-- * The Talk Video <img src="https://cdn3.iconfinder.com/data/icons/unicons-vector-icons-pack/32/youtube-24.png"> [Coming soon](https://) [0 min] -->
+<!-- * The Talk Video <img src="https://cdn3.iconfinder.com/data/icons/unicons-vector-icons-pack/32/youtube-24.png"> [Coming soon](https://) [0 min] ->
 * [Hands-on](https://www.kaggle.com/mineshjethva/explore-feature-engineering-xgb-lasso-nn) - A kaggle kernel
 -->
 
