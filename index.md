@@ -1,4 +1,4 @@
-<!--![Meetup](https://github.com/DiSCoBGU/Preprocessing/raw/master/meet2.png)-->
+![Meetup](https://scontent.ftlv2-1.fna.fbcdn.net/v/t1.0-9/30709896_10215980143194379_5023366602941846517_n.jpg?_nc_cat=0&oh=fa54a97d2cbf1f284157341511808a59&oe=5B5ECB6C)
 
 For the third meetup on 24th April
 
