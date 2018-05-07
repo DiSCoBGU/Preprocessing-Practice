@@ -12,6 +12,9 @@ For the third meetup on 6th May
 * Improve our linear regression model (parameter tuning)
 * Feature transformation and feature engineering
 
+### Future meetups
+* Revision on Feature Selection approaches, Parameter tuning (available as kernel series for prepractice)
+* Unsuppervised methods
 
 ### Material
 * [Presentation](https://github.com/DiSCoBGU/Preprocessing-Practice/blob/master/DiSCo-Week3.pdf)<img src="https://cdn2.iconfinder.com/data/icons/picons-basic-3/57/basic3-019_presentation_keynote-512.png" height="24">
