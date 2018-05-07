@@ -1,6 +1,6 @@
-![Meetup](https://scontent.ftlv2-1.fna.fbcdn.net/v/t1.0-9/30709896_10215980143194379_5023366602941846517_n.jpg?_nc_cat=0&oh=fa54a97d2cbf1f284157341511808a59&oe=5B5ECB6C)
+<!-- ![Meetup](https://scontent.ftlv2-1.fna.fbcdn.net/v/t1.0-9/30709896_10215980143194379_5023366602941846517_n.jpg?_nc_cat=0&oh=fa54a97d2cbf1f284157341511808a59&oe=5B5ECB6C) For the third meetup on 24th April -->
 
-For the third meetup on 24th April
+For the third meetup on 6th May
 
 ## It's time to clean data
 
@@ -8,15 +8,16 @@ For the third meetup on 24th April
 
 * We will practice what we already discussed including
 * Different data preprocessing techniques
+* Feature Selection approaches
 * Improve our linear regression model (parameter tuning)
 * Feature transformation and feature engineering
 
-<!--
+
 ### Material
-* [Presentation](https://github.com/DiSCoBGU/Preprocessing/blob/master/DiSCo-Week2.pdf)<img src="https://cdn2.iconfinder.com/data/icons/picons-basic-3/57/basic3-019_presentation_keynote-512.png" height="24">
-<!-- * The Talk Video <img src="https://cdn3.iconfinder.com/data/icons/unicons-vector-icons-pack/32/youtube-24.png"> [Coming soon](https://) [0 min] ->
-* [Hands-on](https://www.kaggle.com/mineshjethva/explore-feature-engineering-xgb-lasso-nn) - A kaggle kernel
--->
+* [Presentation](https://github.com/DiSCoBGU/Preprocessing-Practice/blob/master/DiSCo-Week3.pdf)<img src="https://cdn2.iconfinder.com/data/icons/picons-basic-3/57/basic3-019_presentation_keynote-512.png" height="24">
+<!-- * The Talk Video <img src="https://cdn3.iconfinder.com/data/icons/unicons-vector-icons-pack/32/youtube-24.png"> [Coming soon](https://) [0 min] -->
+* [Hands-on](https://tinyurl.com/week3-resourses) - A kaggle kernel series
+
 
 ## Other Links
 * [Link](https://discobgu.github.io) Back to Main Page
